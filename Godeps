@@ -1,6 +1,7 @@
 collectd.org 2ce144541b8903101fb8f1483cc0497a68798122
 github.com/aerospike/aerospike-client-go 95e1ad7791bdbca44707fedbb29be42024900d9c
 github.com/amir/raidman c74861fe6a7bb8ede0a010ce4485bdbb4fc4c985
+github.com/ChimeraCoder/anaconda a1f48994eee061428eadcac94cf5fe98dbab0967
 github.com/apache/thrift 4aaa92ece8503a6da9bc6701604f69acf2b99d07
 github.com/aws/aws-sdk-go c861d27d0304a79f727e9a8a4e2ac1e74602fdc0
 github.com/beorn7/perks 4c0e84591b9aa9e6dcfdf3e020114cd81f89d5f9
@@ -87,7 +88,7 @@ golang.org/x/sys 739734461d1c916b6c72a63d7efda2b27edb369f
 golang.org/x/text 506f9d5c962f284575e88337e7d9296d27e729d3
 gopkg.in/asn1-ber.v1 4e86f4367175e39f69d9358a5f17b4dda270378d
 gopkg.in/fatih/pool.v2 6e328e67893eb46323ad06f0e92cb9536babbabc
-gopkg.in/fsnotify.v1 a8a77c9133d2d6fd8334f3260d06f60e8d80a5fb
+gopkg.in/fsnotify/fsnotify.v1 a8a77c9133d2d6fd8334f3260d06f60e8d80a5fb
 gopkg.in/gorethink/gorethink.v3 7ab832f7b65573104a555d84a27992ae9ea1f659
 gopkg.in/ldap.v2 8168ee085ee43257585e50c6441aadf54ecb2c9f
 gopkg.in/mgo.v2 3f83fa5005286a7fe593b055f0d7771a7dce4655

@@ -208,6 +208,7 @@ configuration options.
 * [teamspeak](./plugins/inputs/teamspeak)
 * [tomcat](./plugins/inputs/tomcat)
 * [twemproxy](./plugins/inputs/twemproxy)
+* [twitter](./plugins/inputs/twitter)
 * [unbound](./plugins/inputs/unbound)
 * [varnish](./plugins/inputs/varnish)
 * [zfs](./plugins/inputs/zfs)
